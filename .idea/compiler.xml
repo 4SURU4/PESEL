@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="PESEL.main" target="1.8" />
+      <module name="PESEL.NextModule.main" target="1.8" />
+      <module name="PESEL.NextModule.test" target="1.8" />
+      <module name="PESEL.test" target="1.8" />
+      <module name="PESEL.Validator.main" target="1.8" />
+      <module name="PESEL.Validator.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

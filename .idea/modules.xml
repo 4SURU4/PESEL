@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PESEL.iml" filepath="$PROJECT_DIR$/.idea/PESEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NextModule/PESEL.NextModule.iml" filepath="$PROJECT_DIR$/.idea/modules/NextModule/PESEL.NextModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NextModule/PESEL.NextModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/NextModule/PESEL.NextModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NextModule/PESEL.NextModule.test.iml" filepath="$PROJECT_DIR$/.idea/modules/NextModule/PESEL.NextModule.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Validator/PESEL.Validator.iml" filepath="$PROJECT_DIR$/.idea/modules/Validator/PESEL.Validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Validator/PESEL.Validator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Validator/PESEL.Validator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Validator/PESEL.Validator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Validator/PESEL.Validator.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PESEL.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PESEL.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PESEL.test.iml" filepath="$PROJECT_DIR$/.idea/modules/PESEL.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'com.suru'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(':Validator')
+    compile project(':NextModule')
+}
